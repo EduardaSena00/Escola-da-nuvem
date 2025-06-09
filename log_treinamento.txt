@@ -1,0 +1,14 @@
+
+    [INFO] Epoch 1 - Tempo de execução: 12.34s
+    [DEBUG] Carregando dados complexos...
+    [INFO] Epoch 2 - Tempo de execução: 15.00s
+    [WARNING] Perda muito alta. Ajustando parâmetros.
+    [INFO] Epoch 3 - Tempo de execução: 13.50s
+    [INFO] Epoch 4 - Tempo de execução: 14.80s
+    [ERROR] Erro durante o treinamento: dados corrompidos
+    [INFO] Epoch 5 - Tempo de execução: 12.90s
+    [DEBUG] Salvando modelo...
+    [INFO] Epoch 6 - Tempo de execução: 16.10s
+    [INFO] Epoch 7 - Tempo de execução: 13.20s
+    [INFO] Fim do treinamento.
+    
